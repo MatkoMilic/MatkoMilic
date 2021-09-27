@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatkoMilic
-- 🌱 I’m currently learning about IT industry, especially WEB technologies.
+- 🌱 I’m currently learning about IT industry, especially WEB and mobile technologies.
 - 💞️ I’m looking to collaborate on buisnesses and projects.
 - 📫 How to reach me: imatkomilic@gmail.com
 
