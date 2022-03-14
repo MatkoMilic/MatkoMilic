@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning about IT industry, especially web and mobile technologies.
 - 💞️ I’m looking to collaborate on buisnesses and projects.
 - 📫 How to reach me: 
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): matkomilicdev@gmail.com
+- ![Gmail](https://www.youtube.com/watch?v=fgQg3OKt10s): matkomilicdev@gmail.com
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <br />
