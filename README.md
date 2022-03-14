@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatkoMilic
 - 🌱 I’m currently learning about IT industry, especially web and mobile technologies.
 - 💞️ I’m looking to collaborate on buisnesses and projects.
-- 📫 How to reach me: matkomilicdev@gmail.com
+- 📫 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): matkomilicdev@gmail.com
 
 <br />
 
