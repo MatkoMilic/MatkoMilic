@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on buisnesses and projects.
 - 📫 How to reach me: matkomilicdev@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatkoMilic)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 MatkoMilic/MatkoMilic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
