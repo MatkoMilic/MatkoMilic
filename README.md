@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatkoMilic
-- 🌱 I’m currently learning about IT industry, especially web and mobile technologies.
+- 🌱 I’m a Junior Software Engineer learning each day about IT industry, especially by building web and mobile applications.
 - 💞️ I’m looking to collaborate on different projects and challenges.
 - 📫 How to reach me: matkomilicdev@gmail.com
 
