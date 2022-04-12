@@ -48,6 +48,7 @@ I did a bit of work on the backend too, using this tech stack:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
++ Entity Framework Core.
 
 <br />
 
@@ -63,6 +64,7 @@ Version Control Tool I use the most:
 
 Other tools I used:
 
+AzureDevOps, NPM, YARN, Visual Studio Code, Visual Studio Enterprise, MaterialUI, Formik, Yup, Commitizen, MomentJS, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Slack, GitHub, Custom Hooks in React, Gitflow Workflow, Prettier, ESLint, etc.
 
 
 
