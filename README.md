@@ -30,6 +30,8 @@ I have built web applications - frontend part - using this tech stack:
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
++ Akita Entity Store.
 
 <br />
 
@@ -42,6 +44,13 @@ I have built mobile applications using this tech stack:
 
 <br />
 
+I did a bit of work on the backend too, using this tech stack:
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+<br />
+
 Testing tool I used the most: 
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -49,3 +58,10 @@ Testing tool I used the most:
 Version Control Tool I use the most: 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br />
+
+Other tools I used:
+[AzureDevOps]https://camo.githubusercontent.com/fefe024c58f8fdddc5844063c3d50040d17ac7bc550c987b29872b8ba4dfd2bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417a7572652532304465764f70732d3031373543323f7374796c653d666c61742d737175617265266c6f676f3d617a7572654465766f7073266c696e6b3d68747470733a2f2f6769746875622e636f6d2f6b6b6f7a696172736b69
+
+
