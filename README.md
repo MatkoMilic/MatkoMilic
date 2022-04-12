@@ -64,7 +64,17 @@ Version Control Tool I use the most:
 
 Other tools I used:
 
-AzureDevOps, NPM, YARN, Visual Studio Code, Visual Studio Enterprise, MaterialUI, Formik, Yup, Commitizen, MomentJS, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Slack, GitHub, Custom Hooks in React, Gitflow Workflow, Prettier, ESLint, etc.
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+
+MaterialUI, Formik, Yup, Commitizen, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Custom Hooks in React, Gitflow Workflow, Prettier, TimeTracker, etc.
 
 
 
