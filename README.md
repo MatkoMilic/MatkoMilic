@@ -74,7 +74,7 @@ Other tools I used:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-MaterialUI, Formik, Yup, Commitizen, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Custom Hooks in React, Gitflow Workflow, Prettier, TimeTracker, etc.
++ MaterialUI, Formik, Yup, Commitizen, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Custom Hooks in React, Gitflow Workflow, Prettier, TimeTracker, etc.
 
 
 
