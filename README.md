@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatkoMilic
 - 🌱 I’m currently learning about IT industry, especially web and mobile technologies.
-- 💞️ I’m looking to collaborate on buisnesses and projects.
+- 💞️ I’m looking to collaborate on different projects and challenges.
 - 📫 How to reach me: matkomilicdev@gmail.com
 
 
@@ -11,7 +11,9 @@
 
 <br />
 
-Languages I prefer to choose or work with on Frontend: 
+I have built projects using this tech stack: 
+
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
