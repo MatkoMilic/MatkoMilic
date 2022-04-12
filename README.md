@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MatkoMilic
-- 🌱 I’m a Junior Software Engineer growing each day as a Developer by building web and mobile applications, both on personal projects and professionally for @Factory X - a Microsoft Gold Certified Partner.
-- 💞️ I’m looking to collaborate on different projects and challenges.
+- 🌱 I’m a Junior Software Engineer growing each day as a developer by building web and mobile applications.
+- 🌱 I'm building projects both personally and professionally for @Factory X - a Microsoft Gold Certified Partner.
+- 🌱 I have a B.Sc Degree in Computer Science.
+- 💞️ I’m looking to collaborate on different projects and challenges, feel free to DM me if you need any help or have any questions :).
 - 📫 How to reach me: matkomilicdev@gmail.com
 
 
