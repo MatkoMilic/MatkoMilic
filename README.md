@@ -47,6 +47,7 @@ I have built mobile applications using this tech stack:
 <br />
 
 Started learning and working on this tech stack: 
+
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
