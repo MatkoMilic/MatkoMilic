@@ -60,16 +60,6 @@ I did a bit of work on the backend too, and currently learning more about it, us
 
 <br />
 
-Testing tool I used the most: 
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-Version Control Tool I use the most: 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br />
-
 Of course nothing goes without this trinity: 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -81,6 +71,7 @@ Of course nothing goes without this trinity:
 
 Other tools I used:
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -89,7 +80,6 @@ Other tools I used:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
 
 + MaterialUI, Formik, Yup, Commitizen, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Custom Hooks in React, Gitflow Workflow, Prettier, TimeTracker, etc.
 
