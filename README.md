@@ -21,7 +21,7 @@ I have built web applications - frontend part - using this tech stack:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-+ Context API for State Management.
++ & Context API for State Management.
 
 <br />
 
@@ -31,7 +31,7 @@ I have built mobile applications using this tech stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-+ Local Storage functionalities.
++ & Local Storage functionalities.
 
 <br />
 
@@ -43,7 +43,7 @@ I have built web applications - frontend part - using this tech stack:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-+ Akita State Management Store and Akita Entity Store.
++ & Akita State Management Store.
 
 <br />
 
@@ -58,7 +58,7 @@ I did a bit of work on the backend too, and currently learning more about it, us
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-+ Entity Framework Core.
++ & Entity Framework Core.
 
 <br />
 
@@ -83,7 +83,7 @@ Other tools I used:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-+ MaterialUI, Formik, Yup, Commitizen, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Custom Hooks in React, Gitflow Workflow, Prettier, TimeTracker, etc.
++ & MaterialUI, Formik, Yup, Commitizen, RestAPI, ContextAPI, LocalStorage for React Native, Microsoft Teams, Custom Hooks in React, Gitflow Workflow, Prettier, TimeTracker, etc.
 
 
 
