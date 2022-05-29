@@ -2,7 +2,7 @@
 - 🧑‍💻 I'm developing projects both personally and professionally for @Factory X - a Microsoft Gold Certified Partner.
 - 🧑‍🎓 I graduated in Computer Science and received a B.Sc Degree.
 - 💞️ I’m looking to collaborate on different projects and challenges, feel free to DM me if you need any help or have any questions :).
-- 📫 How to reach me: https://www.linkedin.com/in/mateo-gali%C4%87-bb0b90200/ matkomilicdev@gmail.com
+- 📫 How to reach me: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white matkomilicdev@gmail.com
 
 <br />
 
