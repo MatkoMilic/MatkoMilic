@@ -2,7 +2,9 @@
 - 🧑‍💻 I'm developing projects both personally and professionally for @Factory X - a Microsoft Gold Certified Partner.
 - 🧑‍🎓 I graduated in Computer Science and received a B.Sc Degree.
 - 💞️ I’m looking to collaborate on different projects and challenges, feel free to DM me if you need any help or have any questions :).
-- 📫 How to reach me: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white matkomilicdev@gmail.com
+- 📫 How to reach me: <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
+ matkomilicdev@gmail.com
 
 <br />
 
