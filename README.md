@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 
 <a href='https://www.linkedin.com/in/matkomilic/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Matko_Milić-100000?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&labelColor=0072b1&color=0072b1'/></a>
-
 matkomilicdev@gmail.com
 
 <br />
