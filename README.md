@@ -51,18 +51,21 @@ I have built web applications - frontend part - using this tech stack:
 
 <br />
 
-Started learning and working on this tech stack: 
+I have built web applications - frontend part - using this tech stack: 
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
++ Pinia Store, Vuelidate, Composition Api, Options Api.
 
 <br />
 
-I did a bit of work on the backend too, and currently learning more about it, using this tech stack:
+I have built web applications - backend part - using this tech stack: 
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-+ & Entity Framework Core.
++ & Entity Framework Core, ABP.IO, FluentValidation.
 
 <br />
 
