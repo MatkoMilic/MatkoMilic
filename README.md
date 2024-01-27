@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatkoMilic, I’m a Software Engineer growing daily as a person and as a developer by building web and mobile applications.
-- 🧑‍💻 I'm developing projects both personally, and professionally for collective:mind DEV - a German tailor-made software development agency.
+- 🧑‍💻 I develop Android and iOS apps for my clients through a small company I founded called Brainwave.
 - 🧑‍🎓 I have a Bachelor's degree in Computer Science, field Software Engineering.
 - 💞️ I’m looking to collaborate on different projects and challenges, feel free to DM me if you need any help or have any questions :).
 - 📫 How to reach me:
