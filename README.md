@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MatkoMilic, a Software Engineer and Team Lead @Nordia Digital and I'm growing daily as a person and developer by building web and mobile applications.
-- 🧑‍💻 I develop Android and iOS apps for my clients through a small company I founded called Brainwave.
+- 👋 Hi, I’m @MatkoMilic, a Software Engineer and Co-Owner at Nordia Digital and I'm growing daily as a person and developer by building web and mobile applications.
+- 🧑‍💻 I was previously developing Android and iOS apps for my clients through a small company I founded called Brainwave.
 - 🧑‍🎓 I have a Bachelor's degree in Computer Science, field Software Engineering.
 - 💞️ I’m looking to collaborate on different projects and challenges, feel free to DM me if you need any help or have any questions :).
 - 📫 How to reach me:
